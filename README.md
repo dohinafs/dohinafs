@@ -5,13 +5,13 @@
 ### 👨‍💻 Technologies I Work With:
 
 <p align="center">
-  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="30">
-  <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30">
-  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" height="30">
-  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" height="30">
-  <img alt="C++" title="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="30">
-  <img alt="C" title="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" height="30">
-  <img alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" height="30">
+  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="20">
+  <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="20">
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" height="20">
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" height="20">
+  <img alt="C++" title="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="20">
+  <img alt="C" title="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" height="20">
+  <img alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white" height="20">
 </p>
 
 ---
@@ -35,13 +35,13 @@
 ### 👨‍💻 Let's connect on:
 <p align="center">
   <a href="https://www.linkedin.com/in/dohina-felix-sunder/">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="20">
   </a>
   <a href="https://github.com/dohinafs">
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="30">
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="20">
   </a>
   <a href="https://www.instagram.com/dohina_fs/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" height="30">
+    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" height="20">
   </a>
 </p>
 
