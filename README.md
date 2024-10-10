@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dohinafs&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dohinafs&hide=stars,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dohinafs&theme=dark" alt="GitHub Streak" height="180" />
 </p>
 
