@@ -40,9 +40,6 @@
   <a href="https://github.com/dohinafs">
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" height="20">
   </a>
-  <a href="https://www.instagram.com/dohina_fs/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" height="20">
-  </a>
 </p>
 
 ---
